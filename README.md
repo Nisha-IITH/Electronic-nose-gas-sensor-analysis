@@ -18,8 +18,3 @@ The UCI Gas Sensor Array Drift Dataset was selected because of its relevence to 
 > Train ML models for gas classification
 > Compare different classification algorithms
 > Develop predictive models for e-nose applications
-
-## Author
-Nisha
-B.Tech. Chemical Engineering
-Indian Institute of Technology Hyderabad
